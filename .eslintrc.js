@@ -15,5 +15,6 @@ module.exports = {
     "arrow-parens": ["error", "always"],
     "arrow-body-style": ["error", "as-needed"],
     "new-cap": "error",
+    "no-invalid-this": "error",
   },
 };
